@@ -9,7 +9,7 @@ Version: 4.80
 
 Description: SBC Complete Package with User Manual
 
-File: SBC_v4.80_complete.zip
+File: SBC_v4.80_complete.zip (MD5: 89ef3cd3adcbba792f7ee333791d9071)
 
 Type: 14.8MB compressed zip file
 
