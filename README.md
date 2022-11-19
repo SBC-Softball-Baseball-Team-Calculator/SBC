@@ -1,5 +1,5 @@
 # SBC
-SBC Softball-Baseball Team Caculator
+SBC Softball-Baseball Team Calculator
 
 Home page: https://sbc.aces-softball.com
 
