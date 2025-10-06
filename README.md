@@ -5,7 +5,7 @@ SBC Softball-Baseball Team Calculator
 
 Home page: https://sbc.aces-softball.com
 
-Latest release: SBC Version 5.60
+Latest release: SBC Version 5.70
 
 Support contact:
 support@sbc.aces-softball.com
